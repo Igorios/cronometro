@@ -1,0 +1,44 @@
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background: url('/image/fundo-01.jpg');
+}
+
+.container {
+    display: flex;
+    width: 100%;
+    margin-top: 40px;
+    justify-content: center;
+}
+
+.card {
+    margin-top: 9vh;
+    backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px);
+    background-color: rgba(255, 255, 255, 0.100);
+}
+
+.conteudo {
+    text-align: center;
+    font-size: 1.6rem;
+    padding: 60px;
+    color: #fff;
+}
+
+.conteudo .digitos {
+    margin: 10px 0 10px 0;
+}
+
+.conteudo button {
+    margin-top: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.521);
+    border-radius: 15px;
+    padding: 15px;
+    cursor: pointer;
+    background: none;
+    color: #fff;
+}

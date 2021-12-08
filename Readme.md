@@ -1,6 +1,7 @@
 
 # Cronômetro
 
-<a href="https://igorios.github.io/cronometro/"> Projeto</a>
+<a href="https://igorios.github.io/cronometro/"> Projeto </a>
 
-![Imagem do projeto](./image/print-projeto.png)
+<img src="./image/print-projeto.png" alt="foto do projeto" />
+
